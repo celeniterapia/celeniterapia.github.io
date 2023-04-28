@@ -141,12 +141,15 @@ iframe{
     background-attachment: fixed;
 }
 
-.tratamentos button, .tratamentos a{
+.tratamentos button, .tratamentos a, .socialArea .anamnese{
     display: block;
-    margin: 34px auto 0;
     background-color: #fff;
     color: black;
     width: fit-content;
+}
+
+.tratamentos button, .tratamentos a{
+    margin: 34px auto 0;
 }
 
 .black{
