@@ -97,7 +97,7 @@ iframe{
 
 .banner{
     width: 100%;
-    background-image: url("./src/natureza.jpg");
+    background-image: url("./src/natureza.webp");
     height: 200px;
     background-attachment: fixed;
     background-position: right;
@@ -135,7 +135,7 @@ iframe{
 }
 
 .tratamentos, .socialArea{
-    background-image: url('/src/natureza.jpg');
+    background-image: url('/src/natureza.webp');
     color: #fff;
     background-size: cover;
     background-attachment: fixed;
@@ -239,7 +239,7 @@ iframe{
 }
 
 .social{
-    background-image: url('./src/icons.jpg');
+    background-image: url('./src/icons.webp');
     width: 60px;
     height: 50px;
 }
